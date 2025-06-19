@@ -1,4 +1,11 @@
 body {
-color: purple;
-
+  color: purple;
+  color: rgb(13, 83, 24);
+}
+main {
+  max-width: 1024px;
+  margin: auto;
+}
+img {
+  width: 100%;
 }
